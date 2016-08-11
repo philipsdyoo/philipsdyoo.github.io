@@ -1,7 +1,7 @@
 ---
 layout: null
 title: September 2009 - June 2013
-subtitle: Pascack Valley High School
+subtitle:
 image: "img/timeline/4.jpg"
 ---
 Attended Pascack Valley High School where I took two Java computer science courses one of which was preparation for the AP exam
