@@ -1,0 +1,7 @@
+---
+layout: null
+title: June 2016 - August 2016
+subtitle:
+image: "img/timeline/4.jpg"
+---
+Invited back to Sooryen as a summer intern where I worked on a custom database search engine, earned AWS Technical and Business Accreditation, migrated thousands of records between databases, and developed a machine learning application

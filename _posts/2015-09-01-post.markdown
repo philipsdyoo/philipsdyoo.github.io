@@ -1,0 +1,7 @@
+---
+layout: null
+title: September 2015 - January 2015
+subtitle:
+image: "img/timeline/4.jpg"
+---
+Continued as a part-time intern during the fall semester to work on and finish up the e-commerce project by creating additional PHP modules and researching and documenting critical web security procedures for the development team

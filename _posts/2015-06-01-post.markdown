@@ -1,0 +1,7 @@
+---
+layout: null
+title: June 2015
+subtitle:
+image: "img/timeline/4.jpg"
+---
+Summer interned at Sooryen where I worked on a Magento e-commerce project by researching and installing third-party plugins and developing custom modules in PHP
