@@ -3,9 +3,9 @@ baseurl:
 
 # Site Settings
 title: Philip Yoo
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+description: "A curious developer willing to learn, experiment, and have fun in the New York Metropolitan Area"
 keywords: "jekyll, theme"
-google-tracking-id:
+google-tracking-id: "UA-82450130-1"
 
 # Career Settings
 # Default career thumbnail image.
