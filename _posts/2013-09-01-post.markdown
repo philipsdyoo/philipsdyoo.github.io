@@ -2,6 +2,6 @@
 layout: null
 title: September 2013
 subtitle:
-image: "img/timeline/3.jpg"
+image: "img/timeline/nyu.png"
 ---
 Entered New York University to joint major in Computer Science and Mathematics and minor in Web Programming and Applications

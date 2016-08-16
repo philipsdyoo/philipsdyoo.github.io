@@ -2,6 +2,6 @@
 layout: null
 title: July 2008 - August 2008
 subtitle:
-image: "img/timeline/1.jpg"
+image: "img/timeline/cty.png"
 ---
 Attended Johns Hopkins Center for Talented Youth at Skidmore College for Fundamentals of Computer Science program where I learned the basics of HTML, CSS, and JavaScript

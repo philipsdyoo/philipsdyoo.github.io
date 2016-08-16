@@ -2,6 +2,6 @@
 layout: null
 title: November 2014 - April 2015
 subtitle:
-image: "img/timeline/4.jpg"
+image: "img/timeline/dotdream.jpg"
 ---
 Joined the development team of a friend's small indie game company, DotDream LLC, where I created the mobile supplemental application of the main game project
