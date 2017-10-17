@@ -1,0 +1,7 @@
+---
+layout: null
+title: June 2017 - Present
+subtitle:
+image: "img/timeline/pfizer.png"
+---
+As a Business Technology Rotational Associate, I have the opportunity to gain experience in several lines through four six-month rotations at Pfizer.
